@@ -6,7 +6,7 @@ window.addEventListener('scroll',function(){
 });
 
 var typed = new Typed(".typing", {
-    strings: ["Front-End Developer.", "Competitive Programmer.", "Photographer."],
+    strings: ["Full-Stack Developer.", "Competitive Programmer.", "Photographer."],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true
