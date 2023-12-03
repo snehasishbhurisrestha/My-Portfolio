@@ -15,7 +15,7 @@
     --bg-color: #2a2a2a;
     --second-bg-color: #202020;
     --text-color: #fff;
-    --second-color: #ccc;
+    --second-color: #e9e6e6;
     --main-color: #ff4d05;
     --big-font: 50px;
     --h2-font: 3rem;
@@ -240,7 +240,7 @@ span{
     width: 100%;
     height: 0;
     /* background: linear-gradient(rgba(0,0,0,0.1), #ff004f); */
-    background: linear-gradient(rgba(0,0,0,0.1), #526cff);
+    background: linear-gradient(rgba(0,0,0,0.3), #4e65e7);
     border-radius: 8px;
     position: absolute;
     left: 0;
